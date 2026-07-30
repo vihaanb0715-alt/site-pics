@@ -90,14 +90,14 @@ img {
     width: 256px;
     height: 18px;
     margin-top: 10px;
-    background: url('progress_empty_256.png') no-repeat center;
+    background: url('https://cdn.jsdelivr.net/gh/gulamen/bibi@main/TemplateData/progress_empty_256.png') no-repeat center;
 }
 
 #unity-progress-bar-full {
     width: 0%;
     height: 18px;
     margin-top: 10px;
-    background: url('progress_full_256.png') no-repeat center;
+    background: url('https://cdn.jsdelivr.net/gh/gulamen/bibi@main/TemplateData/progress_full_256.png') no-repeat center;
 }
 
 /* ADAPTATION FOR TOO SMALL DISPLAYS */
